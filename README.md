@@ -25,8 +25,8 @@ Attached below are an R script and example output of the form.
 The R script is fully annotated and so should be reasonably easy to understand. 
 
 The report looks like this >>>
-![Screenshot 2023-07-07 at 08.58.03|690x258](upload://jDOakVwbQSKX2rziFDI2Td6Osqn.jpeg)
 
+![](img/fig.png)
 
 
 Thanks a million billion to @ktuite and @Florian_May for their expert advice on the API and ruODK.
